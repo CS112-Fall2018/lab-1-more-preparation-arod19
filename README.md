@@ -1,3 +1,6 @@
+testing 
+
+
 # CS112-Lab1
 Lab #1
 
@@ -11,12 +14,12 @@ If you do not have a GitHub account then go back and do Lab #0.
 3. Java Reading
 
 1. Learn more about Git
-Check out these tutorials, especially if you have never tried Git and GitHub. 
+Check out these tutorials, especially if you have never tried Git and GitHub.
 	https://try.github.io/levels/1/challenges/1
 	https://rogerdudler.github.io/git-guide/
 	https://guides.github.com/activities/hello-world/
 
-Useful Cheat Sheet: 
+Useful Cheat Sheet:
 	https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 
 
@@ -49,6 +52,5 @@ Submission
 IMPORTANT:  After you have  pushed to GitHub, please submit on Canvas a statement that you have made your commit (This is how we’ll know it’s done!)  INCLUDE YOUR gitHub user name in that statement. (While you can commit more to gitHub,
 
 Academic Honesty
-Please do all your work individually unless otherwise specified. Do not look at anybody 
+Please do all your work individually unless otherwise specified. Do not look at anybody
 else’s code or solutions. You may discuss high level concepts and seek help from the TA or professor. Any outside sources used for help must be noted.
-
