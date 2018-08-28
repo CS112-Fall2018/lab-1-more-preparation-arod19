@@ -1,5 +1,3 @@
-lksfjghlkjdhfglkjhsdflkgjhsdlfkjghsdfkljtesting 
-
 
 # CS112-Lab1
 Lab #1
